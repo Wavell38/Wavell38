@@ -1,5 +1,5 @@
-Portfolio : [wavell38.github.io](https://wavell38.github.io/)
-- 📫 How to reach me vincent.grange38@gmail.com
+✨ Portfolio : [wavell38.github.io](https://wavell38.github.io/)
+📫 How to reach me vincent.grange38@gmail.com
 
 <!---
 Wavell38/Wavell38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
